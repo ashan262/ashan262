@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there, I’m Ashan 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=Building+autonomous+AI+agents+for+real-world+workflows;Designing+multi-model+LLM+orchestration+architectures;Creating+RAG+systems+and+secure+backend+platforms;Shipping+modern+web+apps+με+AI-first+thinking" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Building+autonomous+AI+agents;Designing+LLM+orchestration+architectures;Creating+secure+backend+platforms;Shipping+modern+AI-first+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">

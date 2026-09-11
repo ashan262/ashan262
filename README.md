@@ -44,6 +44,6 @@ I love turning complex ideas into practical systems—especially autonomous agen
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashan262&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan262&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashan262&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=3600" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashan262&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=3600" alt="Top languages" />
 </p>

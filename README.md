@@ -43,14 +43,17 @@ I love turning complex ideas into practical systems—especially autonomous agen
 - **Autonomous AI Agent Workflows**  
   Designing agentic systems with multi-model orchestration, memory-aware execution, and secure backend integration patterns.
 
-## 📊 GitHub Stats
+### 📝 My stats:
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/ashan262">
+  <img alt="Top Languages by Repo" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashan262&theme=tokyonight"/>
+  <img alt="Stats" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashan262&theme=tokyonight"/>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashan262&show_icons=true&theme=tokyonight&hide_border=true&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashan262&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashan262&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+<a href="https://github.com/ashan262">
+  <img alt="GitHub Streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashan262&theme=tokyonight&hide_border=true" />
+</a>
+</p>
